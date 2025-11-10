@@ -1,5 +1,12 @@
 h1 {
 	color: lime;
 	height: 10px;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+	font-family: 'Trebuchet MS';
+}
+
+p {
+	color: red;
+	height: 5%;
+	font-family: 'serif';
+	align-self: center;
 }
