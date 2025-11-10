@@ -19,3 +19,9 @@ th {
 	font-weight: bold;
 	color: gold;
 }
+
+body {
+	background-color: darkslategray;
+	opacity: 0.3;
+	background-image: url("paper.gif");
+}
