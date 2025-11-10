@@ -22,6 +22,9 @@ th {
 
 body {
 	background-color: darkslategray;
-	opacity: 0.3;
-	background-image: url("paper.gif");
+	/*opacity: 0.6;*/
+}
+
+.inline-child {
+	display: inline;
 }
