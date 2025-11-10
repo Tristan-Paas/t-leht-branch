@@ -14,3 +14,8 @@ p {
 img {
 	border: 2px 2px 2px 2px;
 }
+
+th {
+	font-weight: bold;
+	color: gold;
+}
